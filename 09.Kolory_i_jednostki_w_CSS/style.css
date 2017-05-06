@@ -1,0 +1,51 @@
+#jeden {
+	color:red;
+}
+
+#dwa {
+	color: blue;
+}
+
+#heks1 {
+	color: #C63D0F;
+}
+
+#heks2 {
+	color: #3B3738;
+}
+
+#heks3 {
+	color: #7E8F7C;
+}
+
+#kant1 {
+	background-color: rgba(25,188,177, .25);
+}
+
+#kant2 {
+	background-color: rgba(174,3,14,.25);
+}
+
+.kant3 {
+	color: hsl(72, 100%, 53%);
+}
+
+
+#kant4 {
+	background-color: #39d66f;
+	width: 200px; 
+}
+
+
+.pejeden {
+	background-color: #d66f39;
+	width: 50% 
+}
+
+#pedwa {
+	background-color: #6f39d6;
+	width: 20%
+}
+#emdwa {
+	background-color: #160b2a;
+}

@@ -1,0 +1,19 @@
+body {
+	background-color: blue;
+}
+
+p {
+	color: green;
+}
+
+p#fiolet{
+	color:rgb(255, 0, 255);
+}
+
+p.braz{
+	color: brown ;
+}
+
+div.block{
+	border: 1px solid black;
+}
